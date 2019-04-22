@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "How to use markdown: Text Formatting"
 author: "Paul Le"
 categories: sample
 tags: [sample]
